@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Manaknight</string>
+    <string name="welcome">Welcome, %1$s %2$s</string>
+    <string name="sign_up">Register</string>
+    <string name="code">Code</string>
+    <string name="password">Password</string>
+    <string name="abc_example_com">abc@example.com</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="forget_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="app_icon">app_icon</string>
+    <string name="get_reset_link">Get Reset Link</string>
+    <string name="enter_8_digit_code">Enter 8-Digit code</string>
+    <string name="get_verification_code">Get Verification Code</string>
+    <string name="confirm">Confirm</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="logout">Logout</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_password">Change Password</string>
+    <string name="settings">Settings</string>
+</resources>
